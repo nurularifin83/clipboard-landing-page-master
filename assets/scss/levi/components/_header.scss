@@ -1,0 +1,15 @@
+@include xs {
+    header {
+        background-image: url("../images/bg-header-mobile.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+@include lg {
+    header {
+        background-image: url("../images/bg-header-desktop.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}

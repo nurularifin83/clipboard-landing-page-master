@@ -1,0 +1,31 @@
+@include xs {
+    #right-three {
+        text-align: center;
+    }
+    #footer {
+        text-align: center;
+        #secial-media {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    }
+}
+
+@include lg {
+    #right-three {
+        text-align: inherit;
+    }
+
+    #right-three-sub {
+        margin-left: 1rem;
+    }
+    #footer {
+        text-align: inherit;
+        #secial-media {
+            display: inherit;
+            align-items: inherit;
+            justify-content: inherit;
+        }
+    }
+}
