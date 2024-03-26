@@ -2,7 +2,7 @@
 
 ![Design preview for the Clipboard landing page with two column layout coding challenge](https://raw.githubusercontent.com/nurularifin83/clipboard-landing-page-master/main/design/desktop-preview.jpg)
 
-This is a solution to the [Clipboard landing page solution challenge on Frontend Mentor](#). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Clipboard landing page solution challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-clipboard-landing-page-VB6YZrfWZw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -18,7 +18,7 @@ This is a solution to the [Clipboard landing page solution challenge on Frontend
 
 ### Links
 
-- Solution URL: [Solution URL here](#)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-clipboard-landing-page-VB6YZrfWZw)
 - Live Site URL: [Live site URL here](https://nurularifin83.github.io/clipboard-landing-page-master/)
 
 ## My process
