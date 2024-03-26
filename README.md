@@ -19,7 +19,7 @@ This is a solution to the [Clipboard landing page solution challenge on Frontend
 ### Links
 
 - Solution URL: [Solution URL here](#)
-- Live Site URL: [Live site URL here](#)
+- Live Site URL: [Live site URL here](https://nurularifin83.github.io/clipboard-landing-page-master/)
 
 ## My process
 
